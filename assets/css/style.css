@@ -2915,10 +2915,10 @@ img {
   left: 0;
   width: 100%;
   z-index: 999;
-  background: rgba(255, 255, 255, 0.1);
+  background: #d1ac7a;
 }
 .wpo-header-style-3 .navigation {
-  background: rgba(255, 255, 255, 0.1);
+  background: #d1ac7a;
 }
 .wpo-header-style-3 .navigation.sticky-on {
   background: #738ea5;
@@ -12414,7 +12414,7 @@ static-hero-s4
 }
 .color5 .wpo-site-header.wpo-header-style-3 #navbar ul li a::before,
 .color5 .wpo-hero-slider-s3 .slide-inner .slide-content {
-  background: #fff;
+  background: #d1ac7a;
 }
 .color5 .wpo-header-style-3 .navigation.sticky-on,
 .color5 .wpo-service-details-text-3 {
