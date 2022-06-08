@@ -4535,6 +4535,11 @@ static-hero-s4
   position: relative;
   left: -55px;
 }
+.wpo-site-footer .about-widget .logo-large {
+  max-width: 400px;
+  position: relative;
+  left: -55px;
+}
 @media (max-width: 991px) {
   .wpo-site-footer .about-widget .logo {
     left: -20px;
